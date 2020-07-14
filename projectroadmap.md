@@ -8,3 +8,4 @@
 - [x] Write function that displays user input for specific length 
 - [ ] User input will put information into the questions and will generate output
 - [ ] After the user has entered in all information and when the password is generated, the user has the choice to proceed with the password or re-enter input for other options. 
+# Here we edited template as needed  
