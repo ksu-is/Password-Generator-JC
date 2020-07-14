@@ -13,4 +13,4 @@ elif answer == "no":
     print(password.lower())
 else:
     print("Please enter yes or no.")
-#2nd updated and final code
+#With new updates, users have the ablity to create new passwords to their liking 
